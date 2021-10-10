@@ -1,20 +1,20 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    titleWeb: "hey you have dropped something",
+    introTitle: 'my only bbiboo',
+    introDesc: `hello nạnh nùng boiz
+    con người toi bảo mua dép brand thì không
+    tìm dép khác thì chê chợ
+    nhưng mà thôi không sao em vẫn làm cái này cho anh`,
+    btnIntro: 'em yêu anh',
+    title: 'Anh cóa iu em hong🥰',
+    desc: 'trả lời mau ik ăng nhăng nhăng ',
+    btnYes: 'iu mò',
+    btnNo: 'k iu',
+    question: 'if i were a queen, would u be my only king?',
+    btnReply: 'trả lời hẳn hoi không đấm cho đấy?',
+    reply: 'có chứuu',
+    mess: 'Em biết thừa anh sẽ say yes, anw, thankiu so much bbi, i hope u could stay here with me lâu thật là lâu nhé =))))',
+    messDesc: 'i love u <3',
+    btnAccept: 'nếu thít em thì anh hãy bấm cái này nèk',
+    messLink: 'https://drive.google.com/file/d/17P2rOdtA-c6cVskId1quUiw_ZcuW-4zj/view?usp=sharing' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
